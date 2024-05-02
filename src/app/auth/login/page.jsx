@@ -28,7 +28,7 @@ export default function Home() {
         </Link>
       </div>
       <div className="mt-2">
-        <p className="text-black text-sm">Don't have an account? <span className="text-green-500">Sign up</span></p>
+        <p className="text-black text-sm">Don&apos;t have an account? <span className="text-green-500">Sign up</span></p>
       </div>
       {/* <div>
         <p>Or</p>
